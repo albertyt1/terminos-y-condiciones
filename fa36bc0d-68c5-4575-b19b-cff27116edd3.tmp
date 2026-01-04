@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Términos y Condiciones | Ti☢👼🏿</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #0f0f0f;
+            color: #eaeaea;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 30px;
+        }
+        h1, h2 {
+            color: #00ffcc;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #999;
+        }
+        .highlight {
+            color: #ff5555;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Términos y Condiciones</h1>
+        <p style="text-align:center;">Servidor de Discord <strong>Ti☢👼🏿</strong></p>
+
+        <h2>1. Aceptación de las normas</h2>
+        <p>
+            Al unirte al servidor de Discord <strong>Ti☢👼🏿</strong>, aceptas cumplir con estos Términos y Condiciones,
+            así como con las <a href="https://discord.com/terms" target="_blank">Normas de Discord</a>.
+            Si no estás de acuerdo, debes abandonar el servidor.
+        </p>
+
+        <h2>2. Conducta de los usuarios</h2>
+        <p>Todos los miembros deben mantener una conducta respetuosa. Está estrictamente prohibido:</p>
+        <ul>
+            <li>El acoso, amenazas, insultos o discriminación de cualquier tipo.</li>
+            <li>Contenido NSFW, explícito o ilegal.</li>
+            <li>Spam, flood o publicidad no autorizada.</li>
+            <li>Suplantar a otros usuarios o al staff.</li>
+            <li>Compartir información personal propia o de terceros.</li>
+        </ul>
+
+        <h2>3. Moderación y sanciones</h2>
+        <p>
+            El equipo de moderación se reserva el derecho de advertir, silenciar, expulsar o banear
+            a cualquier usuario que incumpla las normas, sin previo aviso si la situación lo amerita.
+        </p>
+
+        <h2>4. Contenido compartido</h2>
+        <p>
+            Todo el contenido compartido por los usuarios es responsabilidad de quien lo publica.
+            El servidor <strong>Ti☢👼🏿</strong> no se hace responsable por enlaces externos,
+            archivos o mensajes enviados por miembros.
+        </p>
+
+        <h2>5. Bots y sistemas automáticos</h2>
+        <p>
+            Este servidor utiliza bots para moderación, automatización y mensajes de bienvenida.
+            Al permanecer en el servidor, aceptas la interacción de estos bots contigo.
+        </p>
+
+        <h2>6. Cambios en los términos</h2>
+        <p>
+            Estos Términos y Condiciones pueden modificarse en cualquier momento.
+            Es responsabilidad del usuario revisarlos periódicamente.
+        </p>
+
+        <h2>7. Responsabilidad</h2>
+        <p class="highlight">
+            El incumplimiento de estas normas puede resultar en sanciones permanentes.
+        </p>
+
+        <footer>
+            <p>© 2026 • Servidor de Discord Ti☢👼🏿 • Todos los derechos reservados</p>
+        </footer>
+    </div>
+</body>
+</html>
